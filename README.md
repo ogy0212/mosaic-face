@@ -1,3 +1,10 @@
+### (2019/05/15現在)、PCにFlaskとOpenCVが入ってないと動きません。すみません。
+
+```
+pip install Flask
+pip install opencv-python
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
